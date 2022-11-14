@@ -25,10 +25,10 @@
 .button:hover {
   background-color: aqua;
 }
-button:focus {
+.button:focus {
   background-color: aquamarine;
 }
-button:active {
+.button:active {
   background-color: aqua;
 }
 .butten-warning:hover {
