@@ -18,10 +18,6 @@
   background-color: darkorange;
   border-color: burlywood;
 }
-.button-danger {
-  background-color: red;
-  border-color: brown;
-}
 .button:hover {
   background-color: aqua;
 }
